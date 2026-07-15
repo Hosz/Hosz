@@ -76,9 +76,9 @@ The project started as a personal portfolio project, but the idea is to keep dev
 | Posts | ✅ Implemented |
 | Comments | ✅ Implemented |
 | Reactions | ✅ Implemented |
-| Teams & squads | 🚧 In development |
-| Team invites | 🚧 In development |
-| Notifications | 🧭 Planned |
+| Teams & squads | ✅ Implemented |
+| Team invites | ✅ Implemented |
+| Notifications | 🚧 In development |
 | Real-time features | 🧭 Planned |
 | AI features | 🧭 Planned |
 
