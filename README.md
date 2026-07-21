@@ -78,7 +78,11 @@ The project started as a personal portfolio project, but the idea is to keep dev
 | Reactions | ✅ Implemented |
 | Teams & squads | ✅ Implemented |
 | Team invites | ✅ Implemented |
-| Notifications | 🚧 In development |
+| Notifications | ✅ Implemented |
+| Follows | ✅ Implemented |
+| Blocking | ✅ Implemented |
+| Friendship | ✅ Implemented |
+| Privacity | ✅ Implemented |
 | Real-time features | 🧭 Planned |
 | AI features | 🧭 Planned |
 
