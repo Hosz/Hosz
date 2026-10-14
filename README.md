@@ -56,6 +56,8 @@ Theme:      dark mode + gamer mindset + developer discipline
 ### [Kyofuse](https://github.com/Hosz/Kyofuse)
 **A high-performance CS2 competitive social hub & squad platform.**
 
+🌐 **Live Platform:** [kyofuse.com](https://kyofuse.com)
+
 <br>
 
 [![Java](https://img.shields.io/badge/Java_21-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://github.com/Hosz/Kyofuse)
@@ -82,6 +84,8 @@ Kyofuse is a full-stack platform built as a **modular monolith (DDD)** tailored 
 ### [SkillNapse API](https://github.com/Hosz/SkillNapse-API)
 **High-performance study orchestration & adaptive learning API powered by Spring AI.**
 
+🌐 **Live Platform:** [skillnapse.me](https://skillnapse.me)
+
 <br>
 
 [![Java](https://img.shields.io/badge/Java_21-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://github.com/Hosz/SkillNapse-API)
@@ -106,6 +110,14 @@ SkillNapse API is a resilient backend engine engineered to orchestrate complex l
 <table>
   <tr>
     <td width="50%">
+      <h3>🌸 Lay-Lay Store</h3>
+      <p><strong>E-Commerce & Mobile-First Retail Platform</strong></p>
+      <p>Mobile-first e-commerce for Pokémon TCG cards, plushies, and accessories with instant WhatsApp bag checkout and dynamic store management.</p>
+      <p><strong>Role:</strong> Full-Stack Developer</p>
+      <p><strong>Stack:</strong> React 19, TypeScript, Vite, Tailwind CSS, Supabase</p>
+      <a href="https://laylay-store.vercel.app">Visit live store →</a>
+    </td>
+    <td width="50%">
       <h3>🃏 PocketMarket</h3>
       <p><strong>Collaborative Marketplace API</strong></p>
       <p>Pokémon TCG marketplace API with sales, trades, auctions, collections, and external API integration.</p>
@@ -113,6 +125,8 @@ SkillNapse API is a resilient backend engine engineered to orchestrate complex l
       <p><strong>Stack:</strong> Java, Spring Boot, PostgreSQL, JWT, Docker, Swagger/OpenAPI</p>
       <a href="https://github.com/ViniciusS4ntos/PocketMarket">Open repository →</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🔗 Link Manager API</h3>
       <p><strong>RESTful Back-End Service</strong></p>
@@ -120,6 +134,8 @@ SkillNapse API is a resilient backend engine engineered to orchestrate complex l
       <p><strong>Role:</strong> Back-End Developer</p>
       <p><strong>Stack:</strong> Python, Flask, PostgreSQL, Pytest, Docker</p>
       <a href="https://github.com/Hosz/link_manager_api">Open repository →</a>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
