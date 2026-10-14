@@ -21,6 +21,9 @@
   <img src="https://img.shields.io/badge/Instagram-muril0xz_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <img src="https://img.shields.io/badge/Discord-hokyozu-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<a href="https://ko-fi.com/murilo_marques">
+  <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+</a>
 
 </div>
 
@@ -147,6 +150,9 @@ Kyofuse is a full-stack platform built as a **modular monolith (DDD)** tailored 
 </a>
 <a href="https://github.com/Hosz">
   <img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://ko-fi.com/murilo_marques">
+  <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
 </a>
 
 </div>
