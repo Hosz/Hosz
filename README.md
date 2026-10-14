@@ -8,7 +8,7 @@
 
 ### Backend Developer • Java | Spring Boot | APIs | Cloud
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=780&lines=Backend+Developer;Java+21+%7C+Spring+Boot+%7C+REST+APIs;Architecting+Kyofuse%3A+CS2+Social+Platform;Clean+Architecture+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=780&lines=Backend+Developer;Java+21+%7C+Spring+Boot+%7C+REST+APIs;Architecting+Kyofuse%3A+CS2+Social+Platform;Engineering+SkillNapse%3A+AI+Study+Engine;Clean+Architecture+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG" />
 
 <br>
 
@@ -75,6 +75,32 @@ Kyofuse is a full-stack platform built as a **modular monolith (DDD)** tailored 
 
 ---
 
+## 🧠 AI Quest: SkillNapse API
+
+<div align="center">
+
+### [SkillNapse API](https://github.com/Hosz/SkillNapse-API)
+**High-performance study orchestration & adaptive learning API powered by Spring AI.**
+
+<br>
+
+[![Java](https://img.shields.io/badge/Java_21-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://github.com/Hosz/SkillNapse-API)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)](https://github.com/Hosz/SkillNapse-API)
+[![Spring AI](https://img.shields.io/badge/Spring_AI-Google_Gemini_%2F_Groq-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)](https://github.com/Hosz/SkillNapse-API)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://github.com/Hosz/SkillNapse-API)
+[![Flyway](https://img.shields.io/badge/Flyway-0D1117?style=for-the-badge&logo=flyway&logoColor=CC0200)](https://github.com/Hosz/SkillNapse-API)
+[![JWT](https://img.shields.io/badge/JWT_Auth-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://github.com/Hosz/SkillNapse-API)
+
+</div>
+
+SkillNapse API is a resilient backend engine engineered to orchestrate complex learning routines, adaptive testing, and AI-driven pedagogical diagnostics for competitive exams and university admissions.
+
+- **Resilient AI Multi-Provider Engine:** Dynamic fallback orchestration between Google Gemini and Groq Cloud with real-time rate-limit handling and runtime request cancellation.
+- **Cognitive & Adaptive Algorithms:** Spaced Repetition System (SRS) using the **SuperMemo SM-2** algorithm and automated essay grading across official scoring criteria.
+- **Clean Architecture & Domain Separation:** Modular domain boundaries with strict separation between business logic, validation components, and immutable DTO mapping.
+
+---
+
 ## 🏆 Featured Projects
 
 <table>
@@ -107,6 +133,7 @@ Kyofuse is a full-stack platform built as a **modular monolith (DDD)** tailored 
 #### Core & Backend
 ![Java](https://img.shields.io/badge/Java_21-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Spring AI](https://img.shields.io/badge/Spring_AI-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
@@ -136,6 +163,7 @@ Kyofuse is a full-stack platform built as a **modular monolith (DDD)** tailored 
 
 ## 🧠 Current Focus
 
+- **SkillNapse API:** Engineering resilient Spring AI orchestration, cognitive learning algorithms (SM-2), and high-throughput exam generation.
 - **Kyofuse:** Scaling features, real-time matchmaking, and cloud infrastructure.
 - **Backend Architecture:** Deepening knowledge in distributed systems, asynchronous event flows, and high availability.
 - **Quality & Reliability:** Writing resilient integration test suites, profiling queries, and performance optimization.
