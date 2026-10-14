@@ -2,6 +2,10 @@
 
 # Murilo Henrique
 
+<div align="center">
+  <a href="https://ko-fi.com/murilo_marques" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
+</div>
+
 ### Backend Developer • Java | Spring Boot | APIs | Cloud
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=780&lines=Backend+Developer;Java+21+%7C+Spring+Boot+%7C+REST+APIs;Architecting+Kyofuse%3A+CS2+Social+Platform;Clean+Architecture+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG" />
